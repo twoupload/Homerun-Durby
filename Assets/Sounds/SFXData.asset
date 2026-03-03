@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b550b24e518409f42b74b36c46a53d71, type: 3}
+  m_Name: SFXData
+  m_EditorClassIdentifier: 
+  sound:
+  - soundName: playball
+    audioClip: {fileID: 8300000, guid: 84866f407bb9ee349a6a0ba691964b17, type: 3}
+  - soundName: hit
+    audioClip: {fileID: 8300000, guid: a80b001649dd19b48a48e7cdcff0fc8b, type: 3}
+  - soundName: appear
+    audioClip: {fileID: 8300000, guid: 9c3543e36ec1e9d46baa723b85a5508d, type: 3}
+  - soundName: call_ball
+    audioClip: {fileID: 8300000, guid: cc6a657cacf0030458e5bdb6a55c00ab, type: 3}
+  - soundName: catching
+    audioClip: {fileID: 8300000, guid: 5cedd032132b9ad4f83eabcecac69550, type: 3}
+  - soundName: impact
+    audioClip: {fileID: 8300000, guid: db7ea8f9145fe1149811413744af7ad3, type: 3}
+  - soundName: homerun_impact_call
+    audioClip: {fileID: 8300000, guid: 955f73d500d618c479381336dee2c10d, type: 3}
+  - soundName: pitching
+    audioClip: {fileID: 8300000, guid: 605d8aeb79008444e81ad74349ba67ac, type: 3}
+  - soundName: foul
+    audioClip: {fileID: 8300000, guid: f901835377844c64985574deeb48bc4b, type: 3}
+  - soundName: hit_call
+    audioClip: {fileID: 8300000, guid: f59cb8429b721514889d5ec7a597be88, type: 3}

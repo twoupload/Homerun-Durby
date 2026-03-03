@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b550b24e518409f42b74b36c46a53d71, type: 3}
+  m_Name: StrikeData
+  m_EditorClassIdentifier: 
+  sound:
+  - soundName: s1
+    audioClip: {fileID: 8300000, guid: ea3d5c6efb4497e47bd4bd32537b2ec1, type: 3}
+  - soundName: s2
+    audioClip: {fileID: 8300000, guid: b1037c671bf61474a897b460a9448780, type: 3}
+  - soundName: s3
+    audioClip: {fileID: 8300000, guid: ddeba3d4d0cde5949bd31377b8578f53, type: 3}
